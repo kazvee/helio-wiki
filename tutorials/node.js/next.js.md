@@ -2,7 +2,7 @@
 
 ## About Next.js
 
-[Next.js](https://nextjs.org/) is a popular full stack framework for node.js, it utilizes React for frontend and is packed with awesome features like server-side rendering. It also includes API routes and much more.
+[Next.js](https://nextjs.org/) is a popular full stack framework for [Node.js](../node.js/README.md), it utilizes React for frontend and is packed with awesome features like server-side rendering. It also includes API routes and much more.
 
 ## Setup
 
